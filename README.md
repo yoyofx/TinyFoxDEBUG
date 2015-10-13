@@ -14,4 +14,4 @@ Arguments: $(SolutionFileName)
 
 按快捷键试试，可以一键调试了。 如果Tinyfox可以命令行指定目录的话就可以真正的一键调试了。
 
-maxzhang1985@gmail.com
+maxzhang1985@gmail.com  梦奕飞翔
